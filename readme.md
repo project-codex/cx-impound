@@ -14,7 +14,6 @@
 * [qb-vehiclekeys](https://github.com/qbcore-framework/qb-vehiclekeys)
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 * [qb-menu](https://github.com/qbcore-framework/qb-menu)
-* 
 
 ## Installation
 * Download the ZIP file and extract it in your resources folder.
