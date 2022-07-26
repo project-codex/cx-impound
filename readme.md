@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="150" height="150" src="https://i.ibb.co/6Y3LhQ4/project-codexlogo.png">
+    <img width="1280" height="300" src="https://i.ibb.co/DttJpgC/impound.png">
 </div>
 
 <h1 align="center">cx-impound</h1>
