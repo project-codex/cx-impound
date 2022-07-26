@@ -1,6 +1,7 @@
 
+
 <div align="center">
-    <img width="800" height="150" src="https://i.ibb.co/pZK668M/banner-1-1.png">
+    <img src="https://i.ibb.co/pZK668M/banner-1-1.png">
 </div>
 
 # A better impound lot for police officers & citizens
