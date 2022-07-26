@@ -1,22 +1,21 @@
+
 <div align="center">
-    <img width="800" height="100" src="https://i.ibb.co/DttJpgC/impound.png">
+    <img width="800" height="150" src="https://i.ibb.co/pZK668M/banner-1-1.png">
 </div>
-
-<h1 align="left">cx-impound</h1>
-
-# STILL IN DEVELOPMENT
 
 # A better impound lot for police officers & citizens
 
+# ***STILL IN DEVELOPMENT***
+
 ## Dependencies
 * [qb-core](https://github.com/qbcore-framework/qb-core)
-* [oxmysql](https://github.com/overextended/oxmysql/releases/tag/v1.9.3)
+* [oxmysql](https://github.com/overextended/oxmysql/releases/tag/v2.3.4)
 * [qb-vehiclekeys](https://github.com/qbcore-framework/qb-vehiclekeys)
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 * [qb-menu](https://github.com/qbcore-framework/qb-menu)
 
 ## Installation
-* Download the ZIP file and extract it in your resources folder.
+* Download the ZIP file and extract it in your resources folder
 * Run the SQL file
 * Add ensure cx-impound to your server.cfg
 
