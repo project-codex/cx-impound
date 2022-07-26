@@ -2,7 +2,7 @@
     <img width="800" height="100" src="https://i.ibb.co/DttJpgC/impound.png">
 </div>
 
-<h1 align="center">cx-impound</h1>
+<h1 align="left">cx-impound</h1>
 
 # STILL IN DEVELOPMENT
 
